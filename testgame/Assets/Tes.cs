@@ -10,6 +10,7 @@ public class Tes : MonoBehaviour
     public float anotherrNumber = 5f;
 =======
     public float thirdNumber = 6f;
+    public float num;
 >>>>>>> Stashed changes
     
     // Start is called before the first frame update
